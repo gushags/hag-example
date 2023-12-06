@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Spectral"
+title = "$10 Site"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
@@ -68,7 +68,7 @@ body = 'You simply need to be willing to get comfortable being uncomfortable. Or
 class = ""
 img = "img/pic02.jpg"
 title = 'Change this...<br />to this.'
-body = 'But leave a bunch of lorem ipsum here. It is your site, do what you augue consectetur interdum. Donec hendrerit imperdiet.'
+body = "And if you want, you can leave a bunch of lorem ipsum here. It's your site, do what you augue consectetur interdum."
 
 [[params.two.section]]
 class = "pink"
